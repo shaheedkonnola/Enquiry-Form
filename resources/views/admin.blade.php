@@ -6,7 +6,7 @@
       <div class="card-header">
         <h2 class="card-title">
         <b>
-          Sales Orders Details
+          Enquries Details
         </b>
         </h2>
        
